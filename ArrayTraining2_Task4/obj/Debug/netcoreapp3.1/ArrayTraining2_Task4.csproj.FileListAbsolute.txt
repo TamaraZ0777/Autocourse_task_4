@@ -1,0 +1,24 @@
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.exe
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.deps.json
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.runtimeconfig.json
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.runtimeconfig.dev.json
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.dll
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.pdb
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.csprojAssemblyReference.cache
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.AssemblyInfoInputs.cache
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.AssemblyInfo.cs
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.dll
+D:\CSharpCourse\ArrayTraining2_Task4\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.pdb
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.csprojAssemblyReference.cache
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.csproj.CoreCompileInputs.cache
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.AssemblyInfoInputs.cache
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.AssemblyInfo.cs
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.dll
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.pdb
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.exe
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.deps.json
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.runtimeconfig.json
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.runtimeconfig.dev.json
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.dll
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\bin\Debug\netcoreapp3.1\ArrayTraining2_Task4.pdb
+C:\Users\TamaraZ\Documents\AQA course\Autocourse_Task4-master\ArrayTraining2_Task4\obj\Debug\netcoreapp3.1\ArrayTraining2_Task4.genruntimeconfig.cache
